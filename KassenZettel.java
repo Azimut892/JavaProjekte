@@ -1,5 +1,3 @@
-package daniel.strings;
-
 
 public class KassenZettel {
     public static void main(String[] args) {
