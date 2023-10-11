@@ -1,6 +1,3 @@
-package daniel.array;
-
-
 
 public class IntergerArrey {
     public static void main(String[] args) {
