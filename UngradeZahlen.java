@@ -1,4 +1,3 @@
-package daniel.basics;
 
 public class UngradeZahlen {
 
