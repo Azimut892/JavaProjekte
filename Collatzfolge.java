@@ -1,4 +1,3 @@
-package daniel.basics;
 
 import java.util.Scanner;
 
