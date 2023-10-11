@@ -1,4 +1,4 @@
-package Daniel.basics;
+
 import java.util.Scanner;
 
 
