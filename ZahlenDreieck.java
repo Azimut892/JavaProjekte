@@ -1,4 +1,3 @@
-package daniel.basics;
 
 public class ZahlenDreieck {
     public static void main(String[] args) {
