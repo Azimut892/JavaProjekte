@@ -1,4 +1,4 @@
-package daniel.strings;
+//decoder für strings die im Encoder.java produziert wurden
 
 import java.util.Scanner;
 
