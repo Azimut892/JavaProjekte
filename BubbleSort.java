@@ -1,4 +1,4 @@
-package daniel.array;
+
 import java.util.Random;
 
 public class BubbleSort {
